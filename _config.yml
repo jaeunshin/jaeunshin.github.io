@@ -9,14 +9,13 @@ last_name: Shin
 contact_note: >
   Email is the best way to reach me.
 description: >
-  Personal academic website of Jaeun Shin, an Engineering student at the University of Cambridge,
-  with interests in control theory, multi-agent systems, applied topology, and related research projects.
+  Personal academic website of Jaeun Shin, an Engineering student at the University of Cambridge, with interests in control theory, multi-agent systems, applied topology, and related research projects.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Jaeun Shin, Cambridge, engineering, control theory, multi-agent systems, applied topology, researcher profile
 lang: en
-icon: ⚛️
+icon:
 
 url: "https://jaeunshin.github.io"
 baseurl: ""
