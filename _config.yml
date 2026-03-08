@@ -17,8 +17,9 @@ keywords: Jaeun Shin, Cambridge, engineering, control theory, multi-agent system
 lang: en
 icon:
 
-url: "https://jaeunshin.github.io"
+url: "https://jaeunshin.com"
 baseurl: ""
+canonical_url: https://jaeunshin.com
 last_updated: false
 impressum_path:
 back_to_top: true
@@ -55,8 +56,8 @@ max_width: 930px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 
-serve_og_meta: false
-serve_schema_org: false
+serve_og_meta: true
+serve_schema_org: true
 og_image:
 
 # -----------------------------------------------------------------------------

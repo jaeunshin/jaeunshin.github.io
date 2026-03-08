@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false
   more_info: >
-    <p>Me at Jack’s Gelato</p>
+    <p>Me at Trinity College Formal</p>
 
 selected_papers: false
 social: false
