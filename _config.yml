@@ -47,7 +47,7 @@ footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 max_width: 930px
 
@@ -75,8 +75,8 @@ bing_site_verification:
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: notes
-blog_description: research notes, projects, and writing
+blog_name: blog
+blog_description: technical notes, projects, and writing
 permalink: /blog/:year/:title/
 lsi: false
 
@@ -229,7 +229,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories]
 
-display_tags: ["research", "control", "math", "code"]
+display_tags: ["research", "control", "dynamical_systems", "math"]
 display_categories: []
 
 # -----------------------------------------------------------------------------

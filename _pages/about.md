@@ -12,8 +12,8 @@ profile:
     <p>University of Cambridge</p>
     <p>Engineering</p>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: true
