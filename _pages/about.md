@@ -9,8 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false
   more_info: >
-    <p>University of Cambridge</p>
-    <p>Engineering</p>
+    <p>Me at Jack’s Gelato</p>
 
 selected_papers: false
 social: false
