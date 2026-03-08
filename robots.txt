@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://jaeunshin.github.io/sitemap.xml
+Sitemap: https://jaeunshin.com/sitemap.xml
