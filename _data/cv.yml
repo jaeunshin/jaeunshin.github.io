@@ -1,7 +1,7 @@
 cv:
   name: Jaeun Shin
   label: Engineering Undergraduate
-  email: ""
+  email: "js2950@cam.ac.uk"
   location: Cambridge, United Kingdom
   image: ""
   summary: >
@@ -14,7 +14,7 @@ cv:
     - network: GitHub
       username: jaeunshin
     - network: LinkedIn
-      username: ""
+      username: "jaeunshin"
     - network: Google Scholar
       username: ""
 
@@ -22,29 +22,28 @@ cv:
 
     Education:
       - institution: University of Cambridge
-        location: Cambridge, United Kingdom
+        location: Cambridge, UK
         url: https://www.cam.ac.uk/
         area: Engineering
         studyType: MEng (BA) Engineering
-        start_date: 2023
-        end_date: 2027
+        start_date: 2024
+        end_date: 2028
         highlights:
-          - Special interest in control theory, dynamical systems, and distributed systems.
-          - Coursework including signals and systems, control engineering, and applied mathematics.
+          - Coursework including signals and systems, control theory, and applied mathematics.
 
     Research:
       - company: Seoul National University
-        position: Undergraduate Research Collaborator
+        position: Undergraduate Researcher
         location: Seoul, South Korea
         start_date: 2025
-        end_date: present
+        end_date: 2026
         summary: >
           Research collaboration with a control theory research group focusing on
           multi-agent systems, robustness to communication and timing disturbances,
-          and sheaf-theoretic approaches to distributed control.
+          and applied topological approaches to distributed control.
         highlights:
           - Study of robustness properties of distributed control architectures.
-          - Exploration of topological and sheaf-theoretic methods in networked systems.
+          - Exploration of topological methods in networked systems.
 
     Projects:
       - name: Autonomous Ground Vehicle Design Project
@@ -67,21 +66,15 @@ cv:
 
     Skills:
       - name: Control and Dynamical Systems
-        level: Advanced
-        icon: fa-solid fa-hashtag
         keywords: >
           Control theory, dynamical systems, multi-agent systems,
           distributed control, networked systems
 
       - name: Programming
-        level: Intermediate
-        icon: fa-solid fa-code
         keywords: >
           Python, MATLAB, scientific computing, numerical simulation
 
       - name: Engineering Tools
-        level: Intermediate
-        icon: fa-solid fa-wrench
         keywords: >
           SolidWorks, embedded systems prototyping, experimental design
 
