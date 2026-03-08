@@ -1,27 +1,27 @@
-name: Jaeun Shin
-label: Engineering Undergraduate
-email: "js2950@cam.ac.uk"
-location: Cambridge, United Kingdom
-image: ""
-summary: >
-  Engineering student at the University of Cambridge with research interests in
-  control theory, multi-agent systems, dynamical systems, and applied topology.
-  Interested in mathematically structured approaches to distributed and networked
-  control, robustness, and complex dynamical systems.
+cv:
+  name: Jaeun Shin
+  label: Engineering Undergraduate
+  email: js2950@cam.ac.uk
+  location: Cambridge, United Kingdom
+  image: ""
+  summary: >
+    Engineering student at the University of Cambridge with research interests in
+    control theory, multi-agent systems, dynamical systems, and applied topology.
+    Interested in mathematically structured approaches to distributed and networked
+    control, robustness, and complex dynamical systems.
 
-social_networks:
+  social_networks:
     - network: GitHub
       username: jaeunshin
     - network: LinkedIn
-      username: "jaeunshin"
+      username: jaeunshin
     - network: Google Scholar
       username: ""
 
   sections:
-  
     Education:
       - institution: University of Cambridge
-        location: Cambridge, UK
+        location: Cambridge, United Kingdom
         url: https://www.cam.ac.uk/
         area: Engineering
         studyType: MEng (BA) Engineering
@@ -29,7 +29,7 @@ social_networks:
         end_date: 2028
         highlights:
           - Coursework including signals and systems, control theory, and applied mathematics.
-  
+
     Research:
       - company: Seoul National University
         position: Undergraduate Researcher
@@ -43,7 +43,7 @@ social_networks:
         highlights:
           - Study of robustness properties of distributed control architectures.
           - Exploration of topological methods in networked systems.
-  
+
     Projects:
       - name: Autonomous Ground Vehicle Design Project
         summary: >
@@ -53,7 +53,7 @@ social_networks:
         highlights:
           - Mechanical design and system integration.
           - Control architecture for navigation and actuation.
-  
+
       - name: Multi-Agent Control and Robustness Studies
         summary: >
           Independent and collaborative study of distributed control algorithms,
@@ -62,28 +62,28 @@ social_networks:
         highlights:
           - Analysis of consensus dynamics on graphs.
           - Study of robustness under timing disturbances.
-  
+
     Skills:
       - name: Control and Dynamical Systems
         keywords: >
           Control theory, dynamical systems, multi-agent systems,
           distributed control, networked systems
-  
+
       - name: Programming
         keywords: >
           Python, MATLAB, scientific computing, numerical simulation
-  
+
       - name: Engineering Tools
         keywords: >
           SolidWorks, embedded systems prototyping, experimental design
-  
+
     Languages:
       - name: Korean
         summary: Native speaker
-  
+
       - name: English
         summary: Fluent
-  
+
     Interests:
       - name: Research Interests
         icon: fa-solid fa-tag
